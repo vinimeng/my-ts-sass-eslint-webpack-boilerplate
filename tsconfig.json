@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "module": "CommonJS",
+        "strict": true,
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "forceConsistentCasingInFileNames": true,
+        "noEmitOnError": true,
+        "sourceMap": true
+    },
+    "include": ["assets/ts/**/*"],
+    "$schema": "https://json.schemastore.org/tsconfig",
+    "display": "Recommended"
+}

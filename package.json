@@ -1,0 +1,34 @@
+{
+  "name": "my-ts-sass-eslint-webpack-boilerplate",
+  "version": "1.0.0",
+  "description": "my-ts-sass-eslint-webpack-boilerplate",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "keywords": [
+    "ts",
+    "sass",
+    "eslint",
+    "webpack",
+    "boilerplate"
+  ],
+  "homepage": "https://github.com/vinimeng/my-ts-sass-eslint-webpack-boilerplate",
+  "author": "Vinícius Meng <viniciusmeng2@gmail.com> (https://powtwo.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^4.19.0",
+    "@typescript-eslint/parser": "^4.19.0",
+    "css-loader": "^5.2.0",
+    "css-minimizer-webpack-plugin": "^1.3.0",
+    "eslint": "^7.23.0",
+    "mini-css-extract-plugin": "^1.4.0",
+    "node-sass": "^5.0.0",
+    "sass-loader": "^11.0.1",
+    "ts-loader": "^8.0.18",
+    "typescript": "^4.2.3",
+    "webpack": "^5.28.0",
+    "webpack-cli": "^4.5.0"
+  }
+}
